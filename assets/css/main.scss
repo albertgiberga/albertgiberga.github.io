@@ -36,3 +36,14 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+.masthead__menu,
+.greedy-nav {
+  width: 100%;
+}
+
+.greedy-nav .visible-links {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
