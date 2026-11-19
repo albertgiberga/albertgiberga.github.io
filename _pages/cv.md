@@ -12,7 +12,6 @@ You can download a full PDF version of my curriculum vitae [here](/files/cv.pdf)
 
 ## Academic Positions
 
-* **Incoming Postdoctoral Fellow** (January – July 2027) — Bergelson Lab, *Harvard University*, USA
 * **Substitute Lecturer** (August 2026 – present) — Faculty of Psychology and Education, *Universitat Oberta de Catalunya (UOC)*, Spain
 * **Postdoctoral Researcher** (2025 – 2026) — *Universitat Oberta de Catalunya (UOC)*, Spain
 * **FPI Predoctoral Researcher** (2022 – 2025) — *Universitat Oberta de Catalunya (UOC)*, Spain
