@@ -16,12 +16,9 @@ author_profile: true
 
 ## Poster Presentations
 
+* **Giberga, A.**, Igualada, A., Ahufinger, N., Aguilera, M., Guerra, E., & Esteve-Gibert, N. (2025). *The interplay between prosody and gestures to process phrasal ambiguities in children with Developmental Language Disorder*. 6th Phonetics and Phonology in Europe (PaPE 2025), Palma (Mallorca), Spain.
 * **Giberga, A.**, Igualada, A., Ahufinger, N., Aguilera, M., Guerra, E., & Esteve-Gibert, N. (2023). *The role of prosody and gesture in on-line pragmatic processing in children with Developmental Language Disorder*. 8th Gesture and Speech in Interaction (GeSpIn), Nijmegen, The Netherlands.
 * **Giberga, A.**, Igualada, A., Ahufinger, N., Aguilera, M., Guerra, E., & Esteve-Gibert, N. (2023). *Pragmatic and discursive development in children with Developmental Language Disorder: Do prosody and gestures pave the way?* 18th International Pragmatics Conference (IPrA), Brussels, Belgium.
 * **Giberga, A.**, Igualada, A., Ahufinger, N., Aguilera, M., Pacheco, F., & Esteve-Gibert, N. (2022). *Processing pragmatic meaning through gestures and prosody when linguistic abilities are impaired: The case of children with Developmental Language Disorder (DLD)*. International Society for Gesture Studies (ISGS), Chicago, USA.
 
-## Outreach & Knowledge Transfer
 
-* **Science Communication:** Participation in radio interviews and popular science publications on language development and multimodal communication.
-* **Educational & Clinical Transfer:** Collaboration with Educational Resource Centers for Students with Hearing and Language Impairments (CREDA, Catalonia) and *Fundació ESMENT* (Balearic Islands) on neurodevelopmental disorders and multimodal communication.
-* **Event Organization:** Organizing committee member of the *XVI Workshop on Catalan Prosody* (July 2025).
