@@ -13,4 +13,4 @@ I study language development, pragmatics, and multimodal communication, specific
 
 During my thesis, I also spent time as a visiting researcher at the Center for Advanced Research in Education (CIAE) at the Universidad de Chile and at Utrecht University. Earlier in my training in Psychology and Primatology, I conducted research on great ape behavior and personality at the Max Planck Institute for Evolutionary Anthropology in Leipzig.
 
-Alongside my research, I teach courses on speech and voice disorders and research methods at UOC and Universitat de Girona. You can find my full CV [here](/files/cv.pdf), and feel free to reach out via email if you’d like to chat about language, gestures, or any topic!
+Alongside my research, I teach courses on language acquisition and research methods at UOC and Universitat de Girona. You can find my full CV [here](/files/cv.pdf), and feel free to reach out via email if you’d like to chat about language, gestures, or any topic!
