@@ -39,11 +39,16 @@
 
 .masthead__menu,
 .greedy-nav {
-  width: 100%;
+  width: 100% !important;
 }
 
 .greedy-nav .visible-links {
-  display: flex;
-  justify-content: flex-end;
-  width: 100%;
+  display: flex !important;
+  justify-content: flex-end !important;
+  margin-left: auto !important;
+  width: 100% !important;
+}
+
+.greedy-nav .masthead__menu-item--lg {
+  display: none !important;
 }
