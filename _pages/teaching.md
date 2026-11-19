@@ -25,4 +25,4 @@ Courses and academic supervision include:
 
 **Adjunct Lecturer & Thesis Supervisor** (2022–2025)  
 *Faculty of Psychology and Education Sciences, Universitat Oberta de Catalunya (UOC)*  
-* Practicum and Master's Thesis Supervision (Research) — MSc in Learning Difficulties and Language Disorders (150h).
+* Practicum and Master's Thesis Supervision (Research) — MSc in Learning Difficulties and Language Disorders.
