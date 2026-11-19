@@ -8,7 +8,7 @@ redirect_from:
   - /teaching/
 ---
 
-You can download a full PDF version of my curriculum vitae [here](/files/cv.pdf).
+You can download a full PDF version of my curriculum vitae [here](/files/CV_Albert_Giberga.pdf).
 
 ## Academic Positions
 
