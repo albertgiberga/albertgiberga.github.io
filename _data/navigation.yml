@@ -15,10 +15,10 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /talks/
+    url: /presentations/
 
   - title: "Teaching"
     url: /teaching/
 
   - title: "CV"
-    url: /workshops/
+    url: /cv/
