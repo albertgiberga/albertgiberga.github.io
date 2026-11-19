@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 I’m Albert, a postdoctoral researcher at the Universitat Oberta de Catalunya (UOC), where I work  in the [Research Group in Cognition and Language (GRECIL)](https://grecil.uoc.edu) on how multimodal cues shape communication in neurodevelopmental conditions.
 
