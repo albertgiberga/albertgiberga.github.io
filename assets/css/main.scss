@@ -65,5 +65,7 @@
 
 .author__avatar img {
   width: 175px !important;
-  height: auto !important;
+  height: 175px !important;
+  object-fit: cover !important;
+  object-position: center 35% !important;
 }
