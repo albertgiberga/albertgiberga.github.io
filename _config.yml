@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Albert Giberga"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Albert Giberga"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   name             : "Albert Giberga"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Barcelona"
   employer         : "Universitat Oberta de Catalunya"
   uri              : # URL
   email            : "none@example.org" 
