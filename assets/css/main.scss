@@ -42,11 +42,16 @@
   width: 100% !important;
 }
 
-.greedy-nav .visible-links {
+.greedy-nav {
   display: flex !important;
   justify-content: flex-end !important;
+  align-items: center !important;
+}
+
+.greedy-nav .visible-links {
+  display: flex !important;
+  width: auto !important;
   margin-left: auto !important;
-  width: 100% !important;
 }
 
 .greedy-nav .masthead__menu-item--lg {
