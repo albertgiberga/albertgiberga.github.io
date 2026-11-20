@@ -40,7 +40,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-9239-6887"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : ""
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Albert-Giberga-Moreno?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
